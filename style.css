@@ -68,8 +68,14 @@ h1{
 .font-color3{
     color: orange;
 }
+footer{
+    background-color: black;
+    width: 100%;
+    
+    
+}
 .foot{
-    background: black;
+   
     height:100%;
     width: 100%;
     font-weight: bold;
@@ -77,6 +83,18 @@ h1{
     display: inline-block;
     margin-top: 100px;
     margin-left: 500px;
+    margin-bottom: 100px;
 }
     
+.font-color4{
+    color: rgb(243, 81, 22);
+}
+.footer p{
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 500px;
+    font-size: 15px;
+    text-align: center;
 }
