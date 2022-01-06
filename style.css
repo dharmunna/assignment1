@@ -78,6 +78,7 @@ footer{
    
     height:100%;
     width: 100%;
+    font-style: italic;
     font-weight: bold;
     color: white;
     display: inline-block;
@@ -93,8 +94,8 @@ footer{
     font-weight: bold;
     color: white;
     display: inline-block;
-    margin-top: 100px;
-    margin-left: 500px;
+    margin-top: 30px;
+    margin-left: 450px;
     font-size: 15px;
     text-align: center;
 }
